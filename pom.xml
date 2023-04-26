@@ -77,7 +77,7 @@
     <configuration>
         <url>http://172.31.44.110:8080/manager/html</url>
         <server>tomcat</server>
-        <path>/qaaenv</path>
+        <path>/qaenv</path>
     </configuration>
 </plugin>
       </plugins>
